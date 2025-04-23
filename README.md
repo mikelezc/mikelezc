@@ -33,7 +33,7 @@ Rapid Learning · Creative Thinking · Team Leadership · Communication
 | ------- | ----------- |
 | [Transcendence](https://github.com/mikelezc/42_Transcendence) | Full-stack multiplayer game and chat platform using Django, WebSockets, JWT, NGINX with ModSecurity, Docker, PostgreSQL and Redis. |
 | [Minishell](https://github.com/mikelezc/Minishell) | A Bash-like shell implemented in C with parsing, redirection, and process management. |
-| [Cub3d](https://github.com/mikelezc/Cub3d) | 3D raycasting engine built from scratch in C using 2D map input. |
+| [Cub3d](https://github.com/mikelezc/42_Cub3d) | 3D raycasting engine built from scratch in C using 2D map input. |
 | [ft_irc](https://github.com/mikelezc/ft_irc) | IRC server in modern C++ with non-blocking sockets and custom protocol handling. |
 | [C++ Modules](https://github.com/mikelezc/CPP_Modules) | Object-oriented programming exercises focusing on encapsulation, inheritance, and polymorphism. |
 
