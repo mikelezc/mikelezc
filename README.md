@@ -35,7 +35,7 @@ Rapid Learning · Creative Thinking · Team Leadership · Communication
 | [Minishell](https://github.com/mikelezc/42_Minishell) | A Bash-like shell implemented in C with parsing, redirection, and process management. |
 | [Cub3d](https://github.com/mikelezc/42_Cub3d) | 3D raycasting engine built from scratch in C using 2D map input. |
 | [ft_irc](https://github.com/mikelezc/42_IRC) | IRC server in modern C++ with non-blocking sockets and custom protocol handling. |
-| [C++ Modules](https://github.com/mikelezc/CPP_Modules) | Object-oriented programming exercises focusing on encapsulation, inheritance, and polymorphism. |
+| [C++ Modules](https://github.com/mikelezc/42_CPP_modules) | Object-oriented programming exercises focusing on encapsulation, inheritance, and polymorphism. |
 
 ---
 
