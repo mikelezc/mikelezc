@@ -50,4 +50,6 @@ Whether it's writing bass lines or writing code, I care about building things th
 ## 📫 Contact Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mikelezc)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-lezcano)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-lezcano)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-2453295-9FEF00?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/2453295)
+---
