@@ -11,7 +11,7 @@
 ## 🧰 Tech Stack
 
 **Languages & Tools**  
-C · C++ · Python · Bash · SQL · Git · Docker
+AWS · C · C++ · Python · Bash · SQL · Git · Docker
 
 **Debugging**  
 Valgrind · GDB · Sanitizers
