@@ -1,10 +1,8 @@
 # 👋 Hi there! I'm Miguel Lezcano
 
-🎯 **Aspiring Software Developer** with a strong creative and technical background. I recently completed the Common Core at [42 Madrid](https://42madrid.com/), an intensive peer-to-peer software engineering program focused on systems, networking, and backend development.
+🎯 **Software Developer** with a strong creative and technical background. I recently completed the Common Core at [42 Madrid](https://42madrid.com/), an intensive peer-to-peer software engineering program focused on systems, networking, and backend development.
 
-🎵 Currently working as a **professional musician and educator**, I'm transitioning into tech with a passion for problem solving, clean code, and building reliable systems.
-
-🚀 I'm actively looking for **junior developer roles** where I can grow, contribute, and keep learning.
+Currently working as a Full-Stack Developer and AWS Cloud Architect, as well as a professional musician and educator (over 20 years of experience).
 
 ---
 
