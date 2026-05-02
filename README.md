@@ -9,7 +9,7 @@ Currently working as a Full-Stack Developer and AWS Cloud Architect, as well as 
 ## 🧰 Tech Stack
 
 **Languages & Tools**  
-AWS · C · C++ · Python · PHP · Bash · SQL · Git · Docker
+AWS · C · C++ · Python · PHP · Bash · SQL · Git · Docker · JS
 
 **Debugging**  
 Valgrind · GDB · Sanitizers
@@ -18,7 +18,7 @@ Valgrind · GDB · Sanitizers
 Object-Oriented Programming · System & Network Programming · Multithreading · Security (JWT, Vault, ModSecurity)
 
 **Databases**  
-PostgreSQL · Redis
+PostgreSQL · Mariadb · Redis
 
 **Soft Skills**  
 Rapid Learning · Creative Thinking · Team Leadership · Communication
