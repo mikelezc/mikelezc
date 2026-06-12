@@ -9,7 +9,7 @@ Currently working as a Full-Stack Developer and AWS Cloud Architect, as well as 
 ## 🧰 Tech Stack
 
 **Languages & Tools**  
-AWS · Terraform · C · C++ · Python · PHP · Bash · SQL · Git · Docker · JS
+Kubernetes · ArgoCD · AWS · Terraform · C · C++ · Python · PHP · Bash · SQL · Git · Docker · JS
 
 **Debugging**  
 Valgrind · GDB · Sanitizers
