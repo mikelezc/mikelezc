@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Miguel Lezcano
 
-🎯 **Software Developer** with a strong creative and technical background. I recently completed the Common Core at [42 Madrid](https://42madrid.com/), an intensive peer-to-peer software engineering program focused on systems, networking, and backend development.
+🎯 **Cloud & DevOps Engineer | AWS Certified Solutions Architect | Terraform | Full Stack developer** with a strong creative and technical background. 
 
 Currently working as a Full-Stack Developer and AWS Cloud Architect, as well as a professional musician and educator (over 20 years of experience).
 
@@ -9,7 +9,7 @@ Currently working as a Full-Stack Developer and AWS Cloud Architect, as well as 
 ## 🧰 Tech Stack
 
 **Languages & Tools**  
-AWS · C · C++ · Python · PHP · Bash · SQL · Git · Docker · JS
+AWS · Terraform · C · C++ · Python · PHP · Bash · SQL · Git · Docker · JS
 
 **Debugging**  
 Valgrind · GDB · Sanitizers
