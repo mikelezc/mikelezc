@@ -29,7 +29,7 @@ Rapid Learning · Creative Thinking · Team Leadership · Communication
 
 | Project | Description |
 | ------- | ----------- |
-| [Kubernetes/ArgoCD]https://github.com/mikelezc/kubernetes-argocd-1 | Production-inspired Kubernetes and GitOps environments built with K3s, K3d, Argo CD, and self-hosted GitLab, fully reproducible across ARM64 and AMD64 platforms. |
+| [Kubernetes/ArgoCD](https://github.com/mikelezc/kubernetes-argocd-1) | Production-inspired Kubernetes and GitOps environments built with K3s, K3d, Argo CD, and self-hosted GitLab, fully reproducible across ARM64 and AMD64 platforms. |
 | [Terraform/Ansible](https://github.com/mikelezc/terraform-ansible-1) | Production-ready AWS infrastructure for WordPress, featuring Terraform IaC, Ansible automation, Auto Scaling, CloudFront CDN, EFS shared storage, and high-availability multi-server deployment. |
 | [Transcendence](https://github.com/mikelezc/42_Transcendence) | Full-stack multiplayer game and chat platform using Django, WebSockets, JWT, NGINX with ModSecurity, Docker, PostgreSQL and Redis. |
 | [Minishell](https://github.com/mikelezc/42_Minishell) | A Bash-like shell implemented in C with parsing, redirection, and process management. |
